@@ -54,25 +54,6 @@ This project demonstrates a complete **simulate → detect → hunt** security o
 
 ---
 
-## ⭐ Project Rating
-
-**Overall Score: 8.6 / 10** — *Strong SOC Portfolio Piece*
-
-| Dimension | Score |
-|-----------|-------|
-| Technical Depth | 9.0 / 10 |
-| Documentation Quality | 9.5 / 10 |
-| Attack Realism | 8.5 / 10 |
-| MITRE ATT&CK Coverage | 8.0 / 10 |
-| Compliance Mapping | 9.0 / 10 |
-| Threat Hunting | 8.5 / 10 |
-| Environment Complexity | 7.5 / 10 |
-| Portfolio Presentation | 9.0 / 10 |
-
-**Verdict:** This lab excels in its meticulous documentation trail (24 screenshots), multi-framework compliance mapping, and proper end-to-end MITRE ATT&CK correlation. It is a highly credible portfolio piece for junior-to-mid SOC analyst and blue team roles. Growth areas: add a second target/attacker, implement and document active response/remediation.
-
----
-
 ## 🏗️ Environment Architecture
 
 ```
