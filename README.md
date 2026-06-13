@@ -463,6 +463,7 @@ soc-wazuh-bruteforce-lab/
 ---
 
 ## 👤 Author
+Arjun R Pillai
 
 **SOC Analyst Portfolio Project**  
 Conducted: June 13, 2026  
